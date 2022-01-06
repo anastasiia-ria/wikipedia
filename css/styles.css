@@ -1,0 +1,21 @@
+body {
+  background-color: #f6f6f6;
+  font-family: sans-serif;
+}
+.container {
+  max-width: inherit;
+  color: #0645ad;
+}
+header li {
+  list-style: none;
+  display: inline;
+  font-size: 0.75em;
+  padding: 0 5px;
+}
+
+header {
+  text-align: right;
+}
+.row {
+  clear:left;
+}
